@@ -3,26 +3,38 @@
   Welcome to my humble code abode  
 </h1>
 
-<h3> Who? </h3>
+<h3> Who❓ </h3>
 <ul>
-  <li>👤 Hello, I'm Heitor Souza F. Pleased to meet you!</li>
-  <li>I'm a Full Stack Web Developer. Currently studying at TRYBE</li>
+  <li>👽 Hello, I'm <b>Heitor Souza F</b>. Pleased to meet you!</li>
+  <li>🔰  Junior Full Stack Web Developer</li>
+  <li>👨‍🎓 Currently studying at TRYBE </li>
+  <li>🧠 Will never stop studying </li>
+  <li>🤝 Teamwork Enjoyer </li>
+  <li>🦉 Notorious Night Owl </li>
 </ul>
+</div>
 
-<br>
+<br> <br>
+
+<div width=600px align=left>
+Don't be a stranger, talk to me anytime!
+  <br> <br>
+  <div>
+    <a padding=10px href="https://www.linkedin.com/in/HeitorSF" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a padding=10px href="mailto:heitor.sf5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+</div>
+  
+  <br> <br>
 
 <div align="center">
-  <a href="https://github.com/HeitorSF5">
-    <img  height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=heitorsf5&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-    <img  height="200em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorsf5&layout=compact&langs_count=6&theme=aura_dark"/>
+  <a href="https://github.com/heitorsf5">
+    <img  height=160em src="https://github-readme-stats.vercel.app/api?username=heitorsf5&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+    <img  height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorsf5&layout=compact&langs_count=6&theme=aura_dark"/>
   </a>
   
-</div>
-  <div align="center">
-    <a href="https://www.linkedin.com/in/HeitorSF" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="mailto:heitor.sf5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
-  <h2>
+
+  <h2 align="center">
     Tech & Tools
   </h2>
   
