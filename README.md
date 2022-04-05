@@ -1,33 +1,21 @@
-
 <h1 align="center">
   Welcome to my humble code abode  
 </h1>
-
-<h3> Who❓ </h3>
-<ul>
-  <li>👽 Hello, I'm <b>Heitor Souza F</b>. Pleased to meet you!</li>
-  <li>🔰  Junior Full Stack Web Developer</li>
-  <li>👨‍🎓 Currently studying at TRYBE </li>
-  <li>🧠 Will never stop studying </li>
-  <li>🤝 Teamwork Enjoyer </li>
-  <li>🦉 Notorious Night Owl </li>
-</ul>
+<div width=100%>
+  <img align="right" width="375px" height="230" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/program.gif?raw=true /></a>
+  <h3> Who ❓ </h3>
+  <ul>
+    <li>👽 Hello, I'm <b>Heitor Souza F</b>. Pleased to meet you!</li>
+    <li>🔰  Junior Full Stack Web Developer</li>
+    <li>👨‍🎓 Currently studying at TRYBE </li>
+    <li>🧠 Will never stop studying </li>
+    <li>🤝 Teamwork Enjoyer </li>
+    <li>🦉 Notorious Night Owl </li>
+  </ul>
 </div>
-
 <br> <br>
 
-<div width=600px align=left>
-Don't be a stranger, talk to me anytime!
-  <br> <br>
-  <div>
-    <a padding=10px href="https://www.linkedin.com/in/HeitorSF" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a padding=10px href="mailto:heitor.sf5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
-</div>
-  
-  <br> <br>
-
-<div align="center">
+<div width=100% align="center">
   <a href="https://github.com/heitorsf5">
     <img  height=160em src="https://github-readme-stats.vercel.app/api?username=heitorsf5&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
     <img  height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorsf5&layout=compact&langs_count=6&theme=aura_dark"/>
@@ -57,20 +45,17 @@ Don't be a stranger, talk to me anytime!
     <img align="center" alt="Sequelize" height="45" width="60" src="https://camo.githubusercontent.com/a2ef2bb116ae565bb254cbb11194dae357eb7582a8babeab337bd3932687d63d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73657175656c697a652f73657175656c697a652d6f726967696e616c2e737667">
     <img align="center" alt="Docker" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   </div>
+  
+  <br> <br>
+<div width=600px align=center>
+  <h3>Don't be a stranger, just contact me!</h3>  
+  <div>
+    <a href="https://www.linkedin.com/in/HeitorSF" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="mailto:heitor.sf5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+</div>
+  <img align="right" target=blank width=50px alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/dancing%20stick%20bug.gif?raw=true /></a>
+  
 
           
           
-
-
-<!--
-**HeitorSF5/HeitorSF5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
