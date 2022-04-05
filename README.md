@@ -4,7 +4,7 @@
 
 <div width=100%>
   <div>
-    <img align="right" width="455px" height="260" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/program.gif?raw=true /></a>
+    <img align="right" width="455px" height="250" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/program.gif?raw=true /></a>
   </div>
   <h3> Who ❓ </h3>
   <ul>
