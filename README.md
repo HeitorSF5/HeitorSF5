@@ -3,7 +3,9 @@
 </h1>
 
 <div width=100%>
-  <img align="right" width="375px" height="230" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/program.gif?raw=true /></a>
+  <div>
+    <img align="right" width="455px" height="260" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/program.gif?raw=true /></a>
+  </div>
   <h3> Who ❓ </h3>
   <ul>
     <li>👽 Hello, I'm <b>Heitor Souza F</b>. Pleased to meet you!</li>
@@ -23,16 +25,14 @@
     <img  height=140em src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorsf5&layout=compact&langs_count=6&theme=aura_dark"/>
   </a>
 </div>
-<br>
-<img align="left" width="40" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/Madokams4.gif?raw=true /></a>
-  
+<br>  
 
   <h2 align="center">
     Tech & Tools
   </h2>
-  
-   
+     
 <br>
+
 <div align="center">
     <img align="center" alt="HTML" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
     <img align="center" alt="CSS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -59,8 +59,13 @@
     <a href="mailto:heitor.sf5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 </div>
+<div>
+  <img align="left" width="40" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/Madokams4.gif?raw=true /></a>
+</div>
+<div>
   <img align="right" target=blank width=50px alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/dancing%20stick%20bug.gif?raw=true /></a>
-  
+</div>
+
 
           
           
