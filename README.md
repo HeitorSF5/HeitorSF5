@@ -4,17 +4,19 @@
 
 <div width=100%>
   <div>
-    <img align="right" width="455px" height="250" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/program.gif?raw=true /></a>
+    <img align="right" width="400px" height="250" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/program.gif?raw=true /></a>
   </div>
   <h3> Who ❓ </h3>
-  <ul>
-    <li>👽 Hello, I'm <b>Heitor Souza F</b>. Pleased to meet you!</li>
-    <li>🔰  Junior Full Stack Web Developer</li>
-    <li>👨‍🎓 Currently studying at TRYBE </li>
-    <li>🧠 Will never stop studying </li>
-    <li>🦉 Notorious Night Owl </li>
-    <li>🤝 Teamwork Enjoyer </li>
-  </ul>
+  <div align=left>
+    <ul>
+      <li>👽 Hello, I'm <b>Heitor Souza F</b>. Pleased to meet you!</li>
+      <li>🔰  Junior Full Stack Web Developer</li>
+      <li>👨‍🎓 Currently studying at TRYBE </li>
+      <li>🧠 Will never stop studying </li>
+      <li>🦉 Notorious Night Owl </li>
+      <li>🤝 Teamwork Enjoyer </li>
+    </ul>
+  </div>
 </div>
 
 <br> <br>
