@@ -10,10 +10,11 @@
     <li>🔰  Junior Full Stack Web Developer</li>
     <li>👨‍🎓 Currently studying at TRYBE </li>
     <li>🧠 Will never stop studying </li>
-    <li>🤝 Teamwork Enjoyer </li>
     <li>🦉 Notorious Night Owl </li>
+    <li>🤝 Teamwork Enjoyer </li>
   </ul>
 </div>
+
 <br> <br>
 
 <div width=100% align="center">
