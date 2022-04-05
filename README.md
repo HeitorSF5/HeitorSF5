@@ -1,6 +1,7 @@
 <h1 align="center">
   Welcome to my humble code abode  
 </h1>
+
 <div width=100%>
   <img align="right" width="375px" height="230" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/program.gif?raw=true /></a>
   <h3> Who ❓ </h3>
@@ -17,9 +18,12 @@
 
 <div width=100% align="center">
   <a href="https://github.com/heitorsf5">
-    <img  height=160em src="https://github-readme-stats.vercel.app/api?username=heitorsf5&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-    <img  height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorsf5&layout=compact&langs_count=6&theme=aura_dark"/>
+    <img  height=140em src="https://github-readme-stats.vercel.app/api?username=heitorsf5&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+    <img  height=140em src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorsf5&layout=compact&langs_count=6&theme=aura_dark"/>
   </a>
+</div>
+<br>
+<img align="left" width="40" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/Madokams4.gif?raw=true /></a>
   
 
   <h2 align="center">
