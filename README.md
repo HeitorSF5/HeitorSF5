@@ -4,7 +4,7 @@
 
 <div width=100%>
   <div>
-    <img align="right" width="400px" height="250" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/program.gif?raw=true /></a>
+    <img align="right" width="400px" height="250" alt="GIF" src=program.gif/>
   </div>
   <h3> Who ❓ </h3>
   <div align=left>
@@ -66,10 +66,10 @@
   </div>
 </div>
 <div>
-  <img align="left" width="40" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/Madokams4.gif?raw=true /></a>
+  <img align="left" width="40" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/Madokams4.gif />
 </div>
 <div>
-  <img align="right" target=blank width=50px alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/dancing%20stick%20bug.gif?raw=true /></a>
+  <img align="right" target=blank width=50px alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/dancing%20stick%20bug.gif/>
 </div>
 
 
