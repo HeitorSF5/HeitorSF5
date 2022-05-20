@@ -65,12 +65,10 @@
     <a href="mailto:heitor.sf5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 </div>
-<div>
-  <img align="left" width="40" alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/Madokams4.gif />
-</div>
-<div>
-  <img align="right" target=blank width=50px alt="GIF" src=https://github.com/HeitorSF5/HeitorSF5/blob/main/dancing%20stick%20bug.gif/>
-</div>
+
+  <img align="right" target=blank width=50px alt="GIF" src=dancing%20stick%20bug.gif/>
+  <img align="left" width="40" alt="GIF" src=Madokams4.gif />
+  
 
 
           
