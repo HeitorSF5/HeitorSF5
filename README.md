@@ -10,7 +10,7 @@
   <div align=left>
     <ul>
       <li>👽 Hello, I'm <b>Heitor Souza F</b>. Pleased to meet you!</li>
-      <li>🔰  Junior Full Stack Web Developer</li>
+      <li>🔰  Junior Front End Web Developer</li>
       <li>👨‍🎓 Currently studying at TRYBE </li>
       <li>🧠 Will never stop studying </li>
       <li>🦉 Notorious Night Owl </li>
