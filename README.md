@@ -111,7 +111,6 @@
   </h2>
      
 <br>
-<!-- https://devicon.dev/ -->
 <div align="center">
     <img align="center" alt="HTML" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
     <img align="center" alt="CSS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
