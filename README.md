@@ -9,12 +9,13 @@
   <h3> Quem ❓ </h3>
   <div align=left>
     <ul>
-      <li>👽 Sou <b>Heitor Souza F</b>, Pleased to meet you!</li>
+      <li>👽 Sou <b>Heitor Souza F</b>, muito prazer!</li>
       <li>🔰 Desenvolvedor Junior em Full Stack</li>
       <li>👨‍🎓 Formado pela TRYBE </li>
       <li>🧠 Mente sempre aberta </li>
       <li>🦉 Notoriamente Noturno </li>
       <li>🤝 Comunicativo e Colaborativo </li>
+      <li>💬 Fluente em Inglês </li>
     </ul>
   </div>
 </div>
