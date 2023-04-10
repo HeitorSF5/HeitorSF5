@@ -31,7 +31,7 @@
 <br>  
 
   <h2 align="center">
-    Stacks
+    Tecnologias
   </h2>
      
 <br>
