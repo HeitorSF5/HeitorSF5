@@ -1,21 +1,21 @@
-<h1 align="center">
-  Opa, fique à vontade!  
+ <h1 align="center">
+  Welcome to my humble code abode!
 </h1>
 
 <div width=100%>
   <div>
     <img align="right" width="400px" height="250" alt="GIF" src=program.gif/>
   </div>
-  <h3> Quem ❓ </h3>
+  <h3> Who ❓ </h3>
   <div align=left>
     <ul>
-      <li>👽 Sou <b>Heitor Souza F</b>, muito prazer!</li>
-      <li>🔰 Desenvolvedor Junior em Full Stack</li>
-      <li>👨‍🎓 Formado pela TRYBE </li>
-      <li>🧠 Mente sempre aberta </li>
-      <li>🦉 Notoriamente Noturno </li>
-      <li>🤝 Comunicativo e Colaborativo </li>
-      <li>💬 Fluente em Inglês </li>
+      <li>👽 Hello, I'm <b>Heitor Souza F</b>. Pleased to meet you!</li>
+      <li>🔰 Junior Front End Web and App Developer</li>
+      <li>👨‍🎓 Studied and graduated at TRYBE </li>
+      <li>🧠 Will never stop studying </li>
+      <li>🦉 Notorious Night Owl </li>
+      <li>🤝 Teamwork Enjoyer </li>
+      <li>🇧🇷 Brazilian </li>
     </ul>
   </div>
 </div>
@@ -31,7 +31,7 @@
 <br>  
 
   <h2 align="center">
-    Tecnologias
+    Tech & Tools
   </h2>
      
 <br>
@@ -148,5 +148,32 @@
   <img align="left" width="40" alt="GIF" src=Madokams4.gif />
 
 -->
-          
+
+<!--- PTBR VERSION
+
+<h1 align="center">
+  Opa, fique à vontade!  
+</h1>
+
+<div width=100%>
+  <div>
+    <img align="right" width="400px" height="250" alt="GIF" src=program.gif/>
+  </div>
+  <h3> Quem ❓ </h3>
+  <div align=left>
+    <ul>
+      <li>👽 Sou <b>Heitor Souza F</b>, muito prazer!</li>
+      <li>🔰 Desenvolvedor Junior em Full Stack</li>
+      <li>👨‍🎓 Formado pela TRYBE </li>
+      <li>🧠 Mente sempre aberta </li>
+      <li>🦉 Notoriamente Noturno </li>
+      <li>🤝 Comunicativo e Colaborativo </li>
+      <li>💬 Fluente em Inglês </li>
+    </ul>
+  </div>
+</div>
+
+<br> <br>
+
+-->
           
