@@ -14,8 +14,8 @@
       <li>👨‍🎓 Studied and graduated at TRYBE </li>
       <li>🧠 Will never stop studying </li>
       <li>🦉 Notorious Night Owl </li>
-      <li>🎙 Former voice actor </li>
       <li>🤝 Teamwork Enjoyer </li>
+      <li>🎙 Former voice actor </li>
       <li>🇧🇷 Brazilian </li>
     </ul>
   </div>
