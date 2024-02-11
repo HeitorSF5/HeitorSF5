@@ -13,7 +13,7 @@
       <li>🔰 Full Stack Web and App Developer</li>
       <li>👨‍🎓 Studied and graduated at TRYBE </li>
       <li>🧠 Will never stop studying </li>
-      <li>🦉 Notorious Night Owl </li>
+      <!-- <li>🦉 Notorious Night Owl </li> -->
       <li>🤝 Teamwork Enjoyer </li>
       <li>🎙 Former voice actor </li>
       <li>🇧🇷 Brazilian </li>
